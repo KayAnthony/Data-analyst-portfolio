@@ -1,2 +1,2 @@
 # Data-analyst-portfolio
-Kay Anthony data analyst poryfokio
+A collection of my data analysis projects
